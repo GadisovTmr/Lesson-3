@@ -65,3 +65,5 @@
 **git merge NAME**
 
 **git diff**
+
+DZ VETKA check
