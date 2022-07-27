@@ -65,3 +65,7 @@
 **git merge NAME**
 
 **git diff**
+
+
+
+ветка 2 конфликт
