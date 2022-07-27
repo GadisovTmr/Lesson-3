@@ -67,3 +67,6 @@
 **git diff**
 
 DZ VETKA check
+
+
+ветка 2 проверка...
