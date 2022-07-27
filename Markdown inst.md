@@ -34,3 +34,33 @@
 еще один конфликт...
 
 ## Заключение 
+
+# Conspect 
+
+**git init**
+
+**git status**
+
+**git add NAME**
+
+**git commit -m "TEXT"**
+
+**git log**
+
+ * bonus: log --graph; log --oneline
+
+**git checkout**
+
+**git checkout master**
+
+**git branch**
+
+**git branch NAME**
+
+**git checkout branchNAME**
+
+**git branch -d NAME**
+
+**git merge NAME**
+
+**git diff**
